@@ -1,3 +1,4 @@
+package a;
 public class p
 {
     void pos(int n)
@@ -6,14 +7,14 @@ public class p
         {
             System.out.println("Positive");
         }
-       /* else if(n<0)
+       else if(n<0)
         {
             System.out.println("Negative");
         }
         else
         {
             System.out.println("Zero");
-    }*/}
+    }}
 
     public static void main(String[] args)
     {
